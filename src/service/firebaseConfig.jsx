@@ -5,7 +5,7 @@ import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
   apiKey: "AIzaSyATmO0Id4xQMSLybnZZ7iKcacua3zXz0tE",
-  authDomain: "wander-wise-umber.vercel.app",
+  authDomain: "aitrip-planner-e61c6.firebaseapp.com",
   projectId: "aitrip-planner-e61c6",
   storageBucket: "aitrip-planner-e61c6.firebasestorage.app",
   messagingSenderId: "964976935324",
