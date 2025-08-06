@@ -1,11 +1,11 @@
-
+// Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
   apiKey: "AIzaSyATmO0Id4xQMSLybnZZ7iKcacua3zXz0tE",
-  authDomain: "aitrip-planner-e61c6.firebaseapp.com",
+  authDomain: "wander-wise-umber.vercel.app",
   projectId: "aitrip-planner-e61c6",
   storageBucket: "aitrip-planner-e61c6.firebasestorage.app",
   messagingSenderId: "964976935324",
