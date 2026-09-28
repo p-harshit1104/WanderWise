@@ -101,7 +101,7 @@ const Hero = () => {
 
     {/* Watermark at bottom */}
     <div className="absolute bottom-4 text-sm text-white opacity-70">
-      Created with ❤️ by Harshit
+      Created with ❤️ 
     </div>
   </div>
 );
